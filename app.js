@@ -9,3 +9,5 @@ const video = document.querySelector('#video')
 const audio = document.querySelector('#audio')
 const canvas = document.querySelector('#canvas')
 const context = document.getContext('2d')
+
+//operations
